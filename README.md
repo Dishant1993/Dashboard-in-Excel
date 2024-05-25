@@ -1,5 +1,5 @@
 # Dashboard-in-Excel
-Dashboard in Excel about Vrinda store dashboard in excel
+Interactive Dashboard in Excel about Vrinda store dashboard in excel
 End-to-End Data Analytics Project using Excel
 
 Project Name: Vrinda Store Data Analysis
